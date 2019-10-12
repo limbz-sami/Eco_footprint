@@ -10,3 +10,11 @@ We would like to compare the environmental impact of different regions by lookin
 4. How much biocapacity is each region using? How does their carbon footprint compare to their biocapacity?
 5. Does a Higher GDP have a correlation to a Lower Overall Footprint?
 6. How does the USA compare to the Global Average as far as Biodefecit?
+
+
+# Data Set
+https://www.kaggle.com/footprintnetwork/ecological-footprint/download
+
+
+# Repo Link
+https://github.com/limbz-sami/Project
