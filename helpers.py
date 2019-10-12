@@ -1,4 +1,4 @@
-name = input("What's your name?")
+name = "Ellen"
 
 def greet(name):
     print(f"Hello {name}")
