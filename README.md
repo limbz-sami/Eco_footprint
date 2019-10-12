@@ -1,7 +1,5 @@
 # Project Description
-We would like to compare the environmental impact of different regions by looking at their carbon footprint and the percentage use of different types of land for example, cropland, forests, fishing, and urban land.
-
-
+Our team is looking at the overall impact of population and land use on the ecological footprint per Region in a Global Data Set.  We are hoping to find correlations to HDI and GDP to overall footprints, as well.
 
 # Research Questions
 1. What types of land contribute more to carbon footprint? What is the realtionship between type of land and carbon footprint?
@@ -10,7 +8,6 @@ We would like to compare the environmental impact of different regions by lookin
 4. How much biocapacity is each region using? How does their carbon footprint compare to their biocapacity?
 5. Does a Higher GDP have a correlation to a Lower Overall Footprint?
 6. How does the USA compare to the Global Average as far as Biodefecit?
-
 
 # Data Set
 https://www.kaggle.com/footprintnetwork/ecological-footprint/download
