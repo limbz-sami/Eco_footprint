@@ -15,3 +15,10 @@ https://www.kaggle.com/footprintnetwork/ecological-footprint/
 
 # Repo Link
 https://github.com/limbz-sami/Project
+
+# Timeline
+Initial Analysis by Wed 10/16
+Merge ideas Thu 10/17- Sat 10/19
+Practice and finalize presentation Sun 10/20 - Wed 10/23
+
+**Final Presentation Wed 10/23**
