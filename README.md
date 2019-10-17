@@ -23,5 +23,19 @@ Practice and finalize presentation Sun 10/20 - Wed 10/23<br>
 
 **Final Presentation Wed 10/23**
 
-Inspiration from Kaggle:
-Is your country running an ecological deficit, consuming more resources than it can produce per year? Which countries have the greatest ecological deficits or reserves? Do they consume less or produce more than the average country? When will Earth Overshoot Day, the day on the calendar when humanity has used one year of natural resources, occur in 2017?
+## Hypothesis:
+If Developed countries create a larger deficit.
+Then HDI is 7.0 or higher, the % deficit and/or biodeficit grows.
+(GDP?)
+
+## Null: 
+If Level of development in a country has no effect on deficit/reserve.
+Then the % deficit/reserve would be about the same.
+
+## Task List:
+- Alexis GDP v Bio Deficit/ Reserve
+- (Define developed countries? HDI v GDP scatter plot?)
+- (Gmap’s Heat Layer?)
+- Hypothesis DONE
+- Stats Test - ANOVA (HDI Groups) —> Independent TTest (between two HDI groups)
+
