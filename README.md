@@ -4,7 +4,7 @@ Our team is looking at the overall impact of population and land use on the ecol
 # Research Questions
 1. What types of land contribute more to ecological footprint? What is the relationship between type of land and total ecological footprint?
 2. How much biocapacity is each region using? How does their ecological footprint compare to their biocapacity?
-3. What is the relationship between population density and ecological footprint?
+3. What is the relationship between population and ecological footprint?
 4. What is the relationship between ecological footprint and Human Development Index (life expectancy, education, and per capita income, etc.)? 
 5. Does a higher GDP have a correlation to a lower overall footprint?
 6. How does the USA compare to the global average as far as biodeficit?
@@ -38,4 +38,10 @@ Then the footprint and/or bioreserve would be random across countries.
 - (Matplotlib hover?)
 - Hypothesis DONE
 - Stats Test - ANOVA (HDI Groups) —> Independent TTest (between two HDI groups)
+- Combine and clean code 
+    - (chart styles, color?)
+    - Save chart images
+    - filepath = os.path.join('Resources', 'countries.csv')
+    
+
 
