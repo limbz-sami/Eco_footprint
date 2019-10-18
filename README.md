@@ -32,8 +32,9 @@ If level of development in a country has no effect on biocapacity reserve,<br>
 Then the footprint and/or bioreserve would be random across countries.
 
 ## Task List:
-- Alexis GDP v Bio Deficit/ Reserve
+- Alexis GDP v Bio Deficit/ Reserve - DOne
 - (Define developed countries? HDI v GDP scatter plot?) DONE
+----------> Created Data Sets based on Specific Countries listed as Developed, Developing, UnDeveloped.  Check it out! [Alexis]
 - (Gmap’s Heat Layer?)
 - (Matplotlib hover?)
 - Hypothesis DONE
