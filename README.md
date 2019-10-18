@@ -13,23 +13,20 @@ Our team is looking at the overall impact of population and land use on the ecol
 https://www.kaggle.com/footprintnetwork/ecological-footprint/
 This data set represents only the year 2016.
 
-# Repo Link
-https://github.com/limbz-sami/Project
+# Hypothesis:
+If developed countries create a negative impact on biocapacity reserve,<br>
+Then when HDI is 0.7 or higher, the footprint and/or bioreserve would decrease. (GDP?)
 
-# Timeline
+# Null: 
+If level of development in a country has no effect on biocapacity reserve,<br>
+Then the footprint and/or bioreserve would be random across countries.
+
+## Timeline
 Initial analysis by Wed 10/16<br>
 Merge ideas & Stats test Thu 10/17- Sat 10/19<br>
 Practice and finalize presentation Sun 10/20 - Wed 10/23<br>
 
 **Final Presentation Wed 10/23**
-
-## Hypothesis:
-If developed countries create a negative impact on biocapacity reserve,<br>
-Then when HDI is 0.7 or higher, the footprint and/or bioreserve would decrease. (GDP?)
-
-## Null: 
-If level of development in a country has no effect on biocapacity reserve,<br>
-Then the footprint and/or bioreserve would be random across countries.
 
 ## Task List:
 - Alexis GDP v Bio Deficit/ Reserve - DOne
@@ -40,9 +37,21 @@ Then the footprint and/or bioreserve would be random across countries.
 - Hypothesis DONE
 - Stats Test - ANOVA (HDI Groups) —> Independent TTest (between two HDI groups)
 - Combine and clean code 
-    - (chart styles, color?)
     - Save chart images
     - filepath = os.path.join('Resources', 'countries.csv')
+    - (chart styles, color?)
     
+## Possible Presentation Narrative:
+1. Population does not seem to relate to Footprint.
+2. So we focused on HDI & GDP, two factors of a developed country. Both seem to effect Footprint (and Reserve?). 
+2b. How does development effect Footprint? (Alexis & Samita)
+3. What is the footprint make-up of each country type? (Ellen)
+5. Stats test / Test hypothesis
+6. Observations Summary
 
-
+## Factoids:
+- The U.S. ranks 180 out of 188 countries in size of eco footprint. 
+- There are 45 developed countries globally (HDI >= 0.8). All of them have Earths Required > 1.0 which means all of them are using more than their share of biocapacity. 
+- There are 143 countries (76%) that are still considered “less-developed”; 
+51 of them are “developing” and could potentially reach “developed” stage soon (0.7 <= HDI < 08).
+- There are 129 countries (69%) globally that have Earths Required > 1.0.
