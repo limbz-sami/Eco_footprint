@@ -17,7 +17,7 @@ A **biocapacity reserve** (aka bio reserve) means an area is producing or is ric
 
 8. **Developed, Developing or Less-Developed Countries**:<br>
 A **developed country** has a relatively high level of economic growth and security. Standard criteria are per capita GDP or income per capita, level of industrialization, general standard of living including HDI, and amount of technological infrastructure. Although no strict level exists, some economists consider $12,000 to $15,000 per capita GDP to be sufficient for developed status. In addition, most developed countries have HDI figures above 0.8.<br>
-A **developing or less-developed country (LDC)** is a nation with a lower living standard relative to other countries, underdeveloped industrial base, and low HDI. These countries' markets haven't yet reached saturation, but since the late 1990s many of them have had higher growth rates than already developed countries. Developing countries or LDCs are typically countries with an income per capita of less than ~12,000 USD.<br><br>
+A **developing or less-developed country (LDC)** is a nation with a lower living standard relative to other countries, underdeveloped industrial base, and low HDI. These countries' markets haven't yet reached saturation, but since the late 1990s many of them have had higher growth rates than already developed countries. Developing countries or LDCs are typically countries with an income per capita of less than $12,000.<br><br>
 
 ## References
 1,2,3. https://www.kaggle.com/footprintnetwork/ecological-footprint/<br>
