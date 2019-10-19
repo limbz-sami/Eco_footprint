@@ -10,8 +10,8 @@ Our team is looking at the overall impact of population and land use on the ecol
 6. How does the USA compare to the global average as far as biodeficit?
 
 # Data Set
-https://www.kaggle.com/footprintnetwork/ecological-footprint/
-This data set represents only the year 2016.
+https://www.kaggle.com/footprintnetwork/ecological-footprint/<br>
+This data set represents the year 2016.
 
 # Hypothesis:
 If developed countries create a negative impact on biocapacity reserve,<br>
@@ -29,23 +29,23 @@ Practice and finalize presentation Sun 10/20 - Wed 10/23<br>
 **Final Presentation Wed 10/23**
 
 ## Task List:
-- Alexis GDP v Bio Deficit/ Reserve - DOne
+- Alexis GDP v Bio Deficit/ Reserve - DONE
 - (Define developed countries? HDI v GDP scatter plot?) DONE
 ----------> Created Data Sets based on Specific Countries listed as Developed, Developing, UnDeveloped.  Check it out! [Alexis]
 - (Gmap’s Heat Layer?)
-- (Matplotlib hover?)
 - Hypothesis DONE
 - Stats Test - ANOVA (HDI Groups) —> Independent TTest (between two HDI groups)
 - Combine and clean code 
     - Save chart images
     - filepath = os.path.join('Resources', 'countries.csv')
     - (chart styles, color?)
-    
+- Presentation notebook
+
 ## Possible Presentation Narrative:
-1. Population does not seem to relate to Footprint.
-2. So we focused on HDI & GDP, two factors of a developed country. Both seem to effect Footprint (and Reserve?).<br> 
-2b. How does development effect Footprint? GDP - Alexis; HDI - Samita
-3. What is the footprint make-up of each country type? (Ellen)
+1. Population does not seem to relate to Footprint. (Population scatter plot)
+2. So we focused on HDI & GDP, two factors of a developed country. Both seem to effect Footprint (and Reserve?). (HDI v GDP + Footprint scatter plot)<br> 
+2b. How does development effect Footprint? (GDP bar charts - Alexis) (HDI bar charts - Samita)
+3. What is the footprint make-up of each country type? (Footprint bar chart - Ellen)
 5. Stats test / Test hypothesis
 6. Observations Summary
 
