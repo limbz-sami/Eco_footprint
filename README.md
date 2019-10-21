@@ -14,12 +14,12 @@ https://www.kaggle.com/footprintnetwork/ecological-footprint/<br>
 This data set represents the year 2016.
 
 # Hypothesis:
-If developed countries create a negative impact on biocapacity reserve,<br>
-Then when HDI is 0.7 or higher, the footprint and/or bioreserve would decrease. (GDP?)
+If developed countries create a higher ecological footprint,<br>
+Then when HDI is 0.7 or higher, the ecological footprint would increase.
 
 # Null: 
-If level of development in a country has no effect on biocapacity reserve,<br>
-Then the footprint and/or bioreserve would be random across countries.
+If level of development in a country has no effect on ecological footprint,<br>
+Then the ecological footprint would be random across countries.
 
 ## Timeline
 Initial analysis by Wed 10/16<br>
@@ -29,17 +29,12 @@ Practice and finalize presentation Sun 10/20 - Wed 10/23<br>
 **Final Presentation Wed 10/23**
 
 ## Task List:
-- Alexis GDP v Bio Deficit/ Reserve - DONE
-- (Define developed countries? HDI v GDP scatter plot?) DONE
-----------> Created Data Sets based on Specific Countries listed as Developed, Developing, UnDeveloped.  Check it out! [Alexis]
 - (Gmap’s Heat Layer?)
-- Hypothesis DONE
-- Stats Test - ANOVA (HDI Groups) —> Independent TTest (between two HDI groups)
-- Combine and clean code 
-    - Save chart images
-    - filepath = os.path.join('Resources', 'countries.csv')
-    - (chart styles, color?)
-- Presentation notebook
+- Presentation
+    - Earths required formula (1.7gha)
+    - Notes on each chart
+    - Color legend
+- Move unused files to backup folder
 
 ## Possible Presentation Narrative:
 1. Population does not seem to relate to Footprint. (Population scatter plot)
