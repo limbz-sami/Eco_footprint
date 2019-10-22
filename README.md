@@ -28,24 +28,8 @@ Practice and finalize presentation Sun 10/20 - Wed 10/23<br>
 
 **Final Presentation Wed 10/23**
 
-## Task List:
-- (Gmap’s Heat Layer?)
-- Presentation
-    - Earths required formula (1.7gha)
-    - Notes on each chart
-    - Color legend
-- Move unused files to backup folder
-
-## Possible Presentation Narrative:
-1. Population does not seem to relate to Footprint. (Population scatter plot)
-2. So we focused on HDI & GDP, two factors of a developed country. Both seem to effect Footprint (and Reserve?). (HDI v GDP + Footprint scatter plot)<br> 
-2b. How does development effect Footprint? (GDP bar charts - Alexis) (HDI bar charts - Samita)
-3. What is the footprint make-up of each country type? (Footprint bar chart - Ellen)
-5. Stats test / Test hypothesis
-6. Observations Summary
-
 ## Factoids:
-- The U.S. ranks 180 out of 188 countries in size of eco footprint. 
+- The U.S. ranks 184 out of 188 countries in size of eco footprint. 
 - There are 45 developed countries globally. All of them have Earths Required > 1.0 which means all of them are using more than their share of biocapacity. 
 - There are 143 countries (76%) that are still considered “less-developed”.<br>
 51 of them are “developing” and potentially will reach “developed” stage soon.
