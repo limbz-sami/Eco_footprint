@@ -5,6 +5,8 @@ Our team is looking at the overall impact of population and land use on the ecol
 1. What types of land contribute more to ecological footprint? What is the relationship between type of land and total ecological footprint?
 2. How much biocapacity is each region using? How does their ecological footprint compare to their biocapacity?
 3. What is the relationship between population and ecological footprint?
+![4-scatter](Images/1_population_earths.png)
+
 4. What is the relationship between ecological footprint and Human Development Index (life expectancy, education, and per capita income, etc.)? 
 
 
