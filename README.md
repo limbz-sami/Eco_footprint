@@ -34,7 +34,7 @@ Practice and finalize presentation Sun 10/20 - Wed 10/23<br>
 
 **Final Presentation Wed 10/23**
 
-## Factoids:
+# Factoids:
 - The U.S. ranks 184 out of 188 countries in size of eco footprint. 
 - There are 45 developed countries globally. All of them have Earths Required > 1.0 which means all of them are using more than their share of biocapacity. 
 - There are 143 countries (76%) that are still considered “less-developed”.<br>
