@@ -20,8 +20,8 @@ https://www.kaggle.com/footprintnetwork/ecological-footprint/<br>
 This data set represents the year 2016.
 
 # Hypothesis:
-If developed countries create a higher ecological footprint,<br>
-Then when HDI is 0.7 or higher, the ecological footprint would increase.
+If HDI group consist of score > 0.6,<br>
+Then, the ecological footprint will be larger compared to groups with HDI score <0.6
 
 # Null: 
 If level of development in a country has no effect on ecological footprint,<br>
