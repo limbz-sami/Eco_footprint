@@ -27,12 +27,6 @@ Then when HDI is 0.7 or higher, the ecological footprint would increase.
 If level of development in a country has no effect on ecological footprint,<br>
 Then the ecological footprint would be random across countries.
 
-## Timeline
-Initial analysis by Wed 10/16<br>
-Merge ideas & Stats test Thu 10/17- Sat 10/19<br>
-Practice and finalize presentation Sun 10/20 - Wed 10/23<br>
-
-**Final Presentation Wed 10/23**
 
 # Factoids:
 - The U.S. ranks 184 out of 188 countries in size of eco footprint. 
