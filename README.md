@@ -16,7 +16,7 @@ Our team is looking at the overall impact of population, HDI (human development 
 6. How does the USA compare to the global average as far as biodeficit?
 
 # Data Set
-Data set was found [here](https://www.kaggle.com/footprintnetwork/ecological-footprint/<br>)
+Data set was found [here](https://www.kaggle.com/footprintnetwork/ecological-footprint/)<br>
 This data set represents the year 2016.
 
 # Hypothesis:
