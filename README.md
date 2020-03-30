@@ -1,5 +1,5 @@
 # Project Description
-Our team is looking at the overall impact of population and land use on the ecological footprint per region in a global data set.  We are hoping to find correlations from HDI and GDP to overall footprints as well.
+Our team is looking at the overall impact of population, HDI (human development index), and GDP (Gross domestic product) on ecological footprint (human demands of global natural resources). Performed regression analysis between HDI and required planets resources and used data visualization methods to demonstrate the relationship.
 
 # Research Questions
 1. What types of land contribute more to ecological footprint? What is the relationship between type of land and total ecological footprint?
@@ -16,7 +16,7 @@ Our team is looking at the overall impact of population and land use on the ecol
 6. How does the USA compare to the global average as far as biodeficit?
 
 # Data Set
-https://www.kaggle.com/footprintnetwork/ecological-footprint/<br>
+Data set was found [here](https://www.kaggle.com/footprintnetwork/ecological-footprint/<br>)
 This data set represents the year 2016.
 
 # Hypothesis:
